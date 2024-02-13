@@ -2,6 +2,7 @@
 title: Publications
 layout: archive
 toc: true
+toc_sticky: true
 ---
 
 ### 2022
