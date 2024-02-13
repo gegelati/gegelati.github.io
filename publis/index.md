@@ -7,7 +7,7 @@ toc_sticky: true
 ## Publications about or using GEGELATI
 
 ### 2023
-* [**Tangled Program Graph for Radio-Frequency Fingerprint Identification**](https://hal.science/hal-04211094/file/PIMRC_TPG_Chillet.pdf)
+* [**Tangled Program Graph for Radio-Frequency Fingerprint Identification**](https://hal.science/hal-04211094/file/PIMRC_TPG_Chillet.pdf)  
   _A. Chillet, B. Boyer, R. Gerzaguet, K. Desnos, M. Gautier_  
   IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
 
@@ -15,13 +15,13 @@ toc_sticky: true
 * [**Ultra-fast machine learning inference through C code generation for tangled program graphs**](https://hal.science/hal-03845227/file/sips22.pdf)
   _K. Desnos, T. Bourgoin, M. Dardaillon, N. Sourbier, O. Gesny, M. Pelcat_
   IEEE Workshop on Signal Processing Systems (SiPS)
-* [**SECURE-GEGELATI Always-On Intrusion Detection through GEGELATI Lightweight Tangled Program Graphs**](https://hal.science/hal-03554393v1/preview/JSPS_secure_gegelati.pdf)
-  _N. Sourbier, K. Desnos, T. Guyet, F. Majorczyk, O. Gesny, M. Pelcat_
+* [**SECURE-GEGELATI Always-On Intrusion Detection through GEGELATI Lightweight Tangled Program Graphs**](https://hal.science/hal-03554393v1/preview/JSPS_secure_gegelati.pdf)  
+  _N. Sourbier, K. Desnos, T. Guyet, F. Majorczyk, O. Gesny, M. Pelcat_  
   Journal of Signal Processing Systems, Springer 2022, vol. 94, no 7, p. 753-770.
 
 ### 2021
-* [**GEGELATI: Lightweight Artificial Intelligence through Generic and Evolvable Tangled Program Graphs.**](https://arxiv.org/pdf/2012.08296)
-  _K. Desnos, N. Sourbier, P.-Y. Raumer, O. Gesny and M. Pelcat._
+* [**GEGELATI: Lightweight Artificial Intelligence through Generic and Evolvable Tangled Program Graphs.**](https://arxiv.org/pdf/2012.08296)  
+  _K. Desnos, N. Sourbier, P.-Y. Raumer, O. Gesny and M. Pelcat._  
   Workshop on Design and Architectures for Signal and Image Processing (DASIP), ACM, 2021*  
 
 ## Cite GEGELATI
