@@ -21,3 +21,10 @@ Or using Bibtex:
   series = {International Conference Proceedings Series (ICPS)},
 }
 ```
+
+## Publications
+
+### 2022
+* _N. Sourbier, K. Desnos, T. Guyet, F. Majorczyk, O. Gesny, M. Pelcat_
+  [*SECURE-GEGELATI Always-On Intrusion Detection through GEGELATI Lightweight Tangled Program Graphs*](https://hal.science/hal-03554393v1/preview/JSPS_secure_gegelati.pdf)
+  Journal of Signal Processing Systems, 2022, vol. 94, no 7, p. 753-770.
