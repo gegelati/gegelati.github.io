@@ -12,7 +12,7 @@ toc_sticky: true
   IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
 
 ### 2022
-* [**Ultra-fast machine learning inference through C code generation for tangled program graphs**](https://hal.science/hal-03845227/file/sips22.pdf)
+* [**Ultra-fast machine learning inference through C code generation for tangled program graphs**](https://hal.science/hal-03845227/file/sips22.pdf)  
   _K. Desnos, T. Bourgoin, M. Dardaillon, N. Sourbier, O. Gesny, M. Pelcat_
   IEEE Workshop on Signal Processing Systems (SiPS)
 * [**SECURE-GEGELATI Always-On Intrusion Detection through GEGELATI Lightweight Tangled Program Graphs**](https://hal.science/hal-03554393v1/preview/JSPS_secure_gegelati.pdf)  
