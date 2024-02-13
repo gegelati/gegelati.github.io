@@ -12,17 +12,23 @@ toc_sticky: true
   IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
 
 ### 2022
+* [**Imbalanced Classification with TPG Genetic Programming: Impact of Problem Imbalance and Selection Mechanisms**](https://hal.science/hal-03699228v1/preview/imbalanced_classification_gecco.pdf)  
+  _N. Sourbier, J. Bonnot, K. Desnos, F. Majorczyk, O. Gesny, T.Guyet, M. Pelcat._  
+  GECCO 2022 - Genetic and Evolutionary Computation Conference.
 * [**Ultra-fast machine learning inference through C code generation for tangled program graphs**](https://hal.science/hal-03845227/file/sips22.pdf)  
-  _K. Desnos, T. Bourgoin, M. Dardaillon, N. Sourbier, O. Gesny, M. Pelcat_
+  _K. Desnos, T. Bourgoin, M. Dardaillon, N. Sourbier, O. Gesny, M. Pelcat_  
   IEEE Workshop on Signal Processing Systems (SiPS)
 * [**SECURE-GEGELATI Always-On Intrusion Detection through GEGELATI Lightweight Tangled Program Graphs**](https://hal.science/hal-03554393v1/preview/JSPS_secure_gegelati.pdf)  
   _N. Sourbier, K. Desnos, T. Guyet, F. Majorczyk, O. Gesny, M. Pelcat_  
   Journal of Signal Processing Systems, Springer 2022, vol. 94, no 7, p. 753-770.
+* Détection d'intrusion réseau par apprentissage machine, un problème temps réel, déséquilibré et en constante évolution.  
+  _N. Sourbier._  
+  Ph.D. Manuscript, INSA Rennes, France
 
 ### 2021
 * [**GEGELATI: Lightweight Artificial Intelligence through Generic and Evolvable Tangled Program Graphs.**](https://arxiv.org/pdf/2012.08296)  
   _K. Desnos, N. Sourbier, P.-Y. Raumer, O. Gesny and M. Pelcat._  
-  Workshop on Design and Architectures for Signal and Image Processing (DASIP), ACM, 2021*  
+  Workshop on Design and Architectures for Signal and Image Processing (DASIP), ACM, 2021 
 
 ## Cite GEGELATI
 If you use, <s>criticize,</s> or praise GEGELATI in your research, please cite the following:
