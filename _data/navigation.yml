@@ -5,6 +5,6 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Tutorials"
-    url: /gegelati-tutorial/
+    url: /gegelati-tutorial/tutos/
   - title: "Source Code"
     url: "https://github.com/gegelati/gegelati"
