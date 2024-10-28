@@ -6,6 +6,15 @@ toc_sticky: true
 
 ## Publications about or using GEGELATI
 
+### 2024
+* **Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning.**
+  _Q. Vacher, N. Beuve, P. Allaire, T. Marty, M. Dardaillon, K. Desnos_  
+  International Joint Conference on Computational Intelligence (ECTA)
+
+* [**Design Automation and Multi-Objective Optimizations for High-Performance Embedded Software**](https://hal.science/tel-04753066)
+  _K. Desnos_  
+  HDR Manuscript, Université de Rennes, France
+
 ### 2023
 * [**Tangled Program Graph for Radio-Frequency Fingerprint Identification**](https://hal.science/hal-04211094/file/PIMRC_TPG_Chillet.pdf)  
   _A. Chillet, B. Boyer, R. Gerzaguet, K. Desnos, M. Gautier_  
