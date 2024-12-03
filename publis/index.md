@@ -7,7 +7,7 @@ toc_sticky: true
 ## Publications about or using GEGELATI
 
 ### 2024
-* **Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning.**  
+* [**Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning**](https://hal.science/hal-04817233) 
   _Q. Vacher, N. Beuve, P. Allaire, T. Marty, M. Dardaillon, K. Desnos_  
   International Joint Conference on Computational Intelligence (ECTA)
 
