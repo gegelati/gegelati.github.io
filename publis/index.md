@@ -6,14 +6,32 @@ toc_sticky: true
 
 ## Publications about or using GEGELATI
 
-### 2024
+### 2026
+* **Multi-Action Tangled Program Graphs for Multi-Task Reinforcement Learning with Continuous Control**
+  _Q Vacher, N Beuve, M Dardaillon, K Desnos_
+  European Conference on Genetic Programming (EuroGP)
+
+### 2025
+* [**MAPLE: Multi-Action Programs through Linear Evolution for Continuous Multi-Action Reinforcement Learning**](https://hal.science/hal-05196344/)
+  _Q Vacher, S Kelly, A Naqvi, N Beuve, T Djavaherpour, M Dardaillon, K Desnos_
+  Genetic and Evolutionary Computation Conference (GECCO)
+* [**Lightweight FPGA Classifiers using Tangled Program Graphs**](https://ieeexplore.ieee.org/abstract/document/11261235/)
+  _J Warner, J McAllister, K Desnos_
+  IEEE Workshop on Signal Processing Systems (SiPS)
+
+### 2024 
 * [**Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning**](https://hal.science/hal-04817233) 
   _Q. Vacher, N. Beuve, P. Allaire, T. Marty, M. Dardaillon, K. Desnos_  
   International Joint Conference on Computational Intelligence (ECTA)
-
+* [**Tangled Program Graphs as an Alternative to DRL-Based Control Algorithms for UAVs**](https://arxiv.org/pdf/2411.05586?)
+  _H Szolc, K Desnos, T Kryjak_
+  Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA)  
 * [**Design Automation and Multi-Objective Optimizations for High-Performance Embedded Software**](https://hal.science/tel-04753066)  
   _K. Desnos_  
   HDR Manuscript, Université de Rennes, France
+* [**Sensitive devices Identification through learning of radio-frequency fingerprint**](https://theses.hal.science/tel-04908234/file/CHILLET_Alice.pdf)
+  _A. Chillet_
+  PhD Manuscript, Université de Rennes, France
 
 ### 2023
 * [**Tangled Program Graph for Radio-Frequency Fingerprint Identification**](https://hal.science/hal-04211094/file/PIMRC_TPG_Chillet.pdf)  
