@@ -7,7 +7,7 @@ toc_sticky: true
 ## Publications about or using GEGELATI
 
 ### 2026
-* **Multi-Action Tangled Program Graphs for Multi-Task Reinforcement Learning with Continuous Control**  
+* [**Multi-Action Tangled Program Graphs for Multi-Task Reinforcement Learning with Continuous Control**](https://hal.science/hal-05604527) 
   _Q Vacher, N Beuve, M Dardaillon, K Desnos_  
   European Conference on Genetic Programming (EuroGP)
 
