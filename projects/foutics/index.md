@@ -29,6 +29,10 @@ The aim of the FOUTICS project is to propose full-stack, open-source methods and
 - Paul Allaire, PhD
 - Quentin Vacher, PhD
 
+### Post-Doc
+
+- [Erwan Vincent, Post-Doc](https://www.linkedin.com/in/erwan-vincent)
+
 ## Updates
 
 {% for post in site.tags["foutics"] %}
