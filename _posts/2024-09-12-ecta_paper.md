@@ -1,5 +1,5 @@
 ---
-title: "Accepted Paper at ECTA2024"
+title: "Accepted Paper at ECTA 2024"
 layout: archive
 tag: foutics
 ---
