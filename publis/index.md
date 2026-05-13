@@ -7,9 +7,13 @@ toc_sticky: true
 ## Publications about or using GEGELATI
 
 ### 2026
-* [**Multi-Action Tangled Program Graphs for Multi-Task Reinforcement Learning with Continuous Control**](https://hal.science/hal-05604527) 
+* [**Multi-Action Tangled Program Graphs for Multi-Task Reinforcement Learning with Continuous Control**](https://hal.science/hal-05604527)  
   _Q Vacher, N Beuve, M Dardaillon, K Desnos_  
   European Conference on Genetic Programming (EuroGP)
+* [**Les algorithmes évolutifs, une piste pour rendre les IA plus sobres**](https://doi.org/10.64628/AAK.p66xwhp3w)  
+  _K Desnos, M Dardaillon, Q Vacher_  
+  The Conversation
+
 
 ### 2025
 * [**MAPLE: Multi-Action Programs through Linear Evolution for Continuous Multi-Action Reinforcement Learning**](https://hal.science/hal-05196344/)  
